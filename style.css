@@ -154,7 +154,7 @@ label:hover{
     position: relative;
 }
 
-#check2:checked ~ .container .photo-gallery .child,
+#check2:checked ~ .container .photo-gallery .graduation,
 #check2:checked ~ .container .photo-gallery .place{
     transform: scale(0);
     opacity: 0;
@@ -168,7 +168,7 @@ label:hover{
     position: relative;
 }
 
-#check3:checked ~ .container .photo-gallery .child,
+#check3:checked ~ .container .photo-gallery .graduation,
 #check3:checked ~ .container .photo-gallery .place{
     transform: scale(0);
     opacity: 0;
@@ -182,7 +182,7 @@ label:hover{
     position: relative;
 }
 
-#check4:checked ~ .container .photo-gallery .child,
+#check4:checked ~ .container .photo-gallery .graduation,
 #check4:checked ~ .container .photo-gallery .place{
     transform: scale(0);
     opacity: 0;
